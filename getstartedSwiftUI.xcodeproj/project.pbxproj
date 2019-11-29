@@ -16,6 +16,7 @@
 		43D75C8E239056AE00A70A72 /* getstartedSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D75C8D239056AE00A70A72 /* getstartedSwiftUITests.swift */; };
 		43D75C99239056AE00A70A72 /* getstartedSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D75C98239056AE00A70A72 /* getstartedSwiftUIUITests.swift */; };
 		43D75CA72390571C00A70A72 /* circleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D75CA62390571C00A70A72 /* circleImage.swift */; };
+		43D75CAB2390B38D00A70A72 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D75CAA2390B38D00A70A72 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		43D75C98239056AE00A70A72 /* getstartedSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getstartedSwiftUIUITests.swift; sourceTree = "<group>"; };
 		43D75C9A239056AE00A70A72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43D75CA62390571C00A70A72 /* circleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = circleImage.swift; sourceTree = "<group>"; };
+		43D75CAA2390B38D00A70A72 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				43D75C76239056AA00A70A72 /* AppDelegate.swift */,
+				43D75CAA2390B38D00A70A72 /* MapView.swift */,
 				43D75C78239056AA00A70A72 /* SceneDelegate.swift */,
 				43D75C7A239056AA00A70A72 /* ContentView.swift */,
 				43D75CA62390571C00A70A72 /* circleImage.swift */,
@@ -272,6 +275,7 @@
 			files = (
 				43D75C77239056AA00A70A72 /* AppDelegate.swift in Sources */,
 				43D75CA72390571C00A70A72 /* circleImage.swift in Sources */,
+				43D75CAB2390B38D00A70A72 /* MapView.swift in Sources */,
 				43D75C79239056AA00A70A72 /* SceneDelegate.swift in Sources */,
 				43D75C7B239056AA00A70A72 /* ContentView.swift in Sources */,
 			);
